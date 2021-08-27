@@ -12,5 +12,4 @@ int main()
 	cin>>k;
 		string r = s.substr(j, k);
 		cout<<r<<"";
-	//Write code here
 }
